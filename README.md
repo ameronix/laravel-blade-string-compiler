@@ -1,2 +1,2 @@
 # laravel-blade-string-compiler
-Compile Laravel Blade templates from a string
+Compile Blade templates from a string in Laravel 5.x

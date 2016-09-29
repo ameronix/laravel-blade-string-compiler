@@ -1,11 +1,11 @@
 {
     "name": "ameronix/laravel-blade-string-compiler",
-    "description": "",
+    "description": "Compile Blade templates from a string in Laravel 5.x",
     "keywords": ["ameronix", "laravel", "blade"],
     "license": "MIT",
     "authors": [
         {
-            "name": "Brian Harri",
+            "name": "Brian Harris",
             "email": "brian@ameronix.com"
         }
     ],
@@ -16,6 +16,5 @@
         "psr-0": {
             "Ameronix\\LaravelBladeStringCompiler\\": "src/"
         }
-    },
-    "minimum-stability": "dev"
+    }
 }
