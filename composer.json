@@ -16,5 +16,7 @@
         "psr-0": {
             "Ameronix\\LaravelBladeStringCompiler\\": "src/"
         }
-    }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
