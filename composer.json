@@ -1,0 +1,20 @@
+{
+    "name": "ameronix/laravel-blade-string-compiler",
+    "description": "",
+    "keywords": ["ameronix", "laravel", "blade"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Brian Harri",
+            "email": "brian@ameronix.com"
+        }
+    ],
+    "require":{
+        "php": ">=5.5.9"
+    },
+    "autoload": {
+        "psr-0": {
+            "Ameronix\\LaravelBladeStringCompiler\\": "src/"
+        }
+    }
+}
